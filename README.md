@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte Z790M Aorus Elite, Intel Core i9 12900KS, AMD Radeon RX 6600, Fenvi BCM94360CD 4 Antenas PCIe, macOS Tahoe & WiFi/BT/AirDrop
 
+<img width="1988" height="1306" alt="Portfolio - 1" src="https://github.com/user-attachments/assets/4b2a7a56-54d6-45d5-9456-284d503fa56a" />
+
 # Basic Information
 
 **macOS**: macOS Tahoe (26.3.2)
